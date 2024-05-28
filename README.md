@@ -1,4 +1,4 @@
-# Loan-Prediction-Analysis
+# LOAN PREDICTION ANALYSIS
 This analysis leverages customer data—including gender, marital status, education, dependents, income, loan amount, and credit history—to predict loan eligibility and streamline Dream Housing Finance Company's decision-making process.
 
 **Dataset Link:** https://www.kaggle.com/altruistdelhite04/loan-prediction-problem-dataset
